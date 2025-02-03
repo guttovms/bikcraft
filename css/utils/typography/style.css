@@ -30,6 +30,9 @@
 .font-sm-roboto {
     font: 400 1rem/1.5 "Roboto", sans-serif;
 }
+.font-sm-roboto-bold {
+    font: 600 1rem/1.5 "Roboto", sans-serif;
+}
 
 /* Fontes Médias (Medium) */
 .font-md {
@@ -37,7 +40,7 @@
 }
 
 .font-md-bold {
-    font-weight: 600;
+    font: 600 1.124rem/1.35 "Poppins", sans-serif;
 }
 
 .font-md-roboto {
