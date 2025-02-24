@@ -6,6 +6,10 @@
   grid-template-columns: 1fr 1fr;
 }
 
+#bicicleta .titulo p {
+  text-transform: uppercase;
+}
+
 .bicicleta-imagens {
   gap: 20px;
   display: flex;
@@ -92,7 +96,7 @@
 }
 
 
-/* @media (max-width: 800px) {
+@media (max-width: 800px) {
   .bicicleta {
     padding: 40px 0px;
     grid-template-columns: 1fr;
@@ -100,4 +104,14 @@
   .bicicleta-imagens {
     grid-row: 2;
   }
-} */
+}
+
+
+@media (max-width: 400px) {
+  .bicicleta-informacoes {
+    grid-template-columns: 1fr;
+  }
+  .bicicleta-comprar {
+    grid-template-columns: 1fr;
+  }
+}
