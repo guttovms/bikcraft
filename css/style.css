@@ -28,4 +28,6 @@
 /* Bicicletas */
 @import "./bicicletas/bicicletas-listas/style.css";
 @import "./bicicletas/bicicletas/style.css";
-@import "./bicicleta/bicicleta.css"
+@import "./bicicleta/bicicleta.css";
+
+@import "./bicicleta/seguro.css"
