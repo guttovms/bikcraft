@@ -14,6 +14,9 @@
 /* Forms */
 @import "./utils/forms/style.css";
 
+/* Animação */
+@import "./utils/animacao.css";
+
 /* Home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
